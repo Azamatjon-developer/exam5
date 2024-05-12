@@ -1,0 +1,14 @@
+.sidebar {
+  background-color: rgba(0, 0, 0, 0.626);
+  max-width: 20%;
+  height: 100vh;
+}
+.sidebar h2 {
+  color: #fff;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: serif;
+  margin-left: 10px;
+}
+
+/*# sourceMappingURL=sidebar.css.map */
